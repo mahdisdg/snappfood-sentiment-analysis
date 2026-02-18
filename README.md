@@ -31,8 +31,6 @@ The goal of this project is to classify customer reviews as either "Happy" (Posi
 
 ## 📁 Repository Structure
 * `snappfood-sentiment-analysis.ipynb`: The complete end-to-end pipeline, including data cleaning, class balancing, model training, and evaluation.
-* `requirements.txt`: List of necessary libraries (Transformers, Hazm, etc.).
-* `visualizations/`: Plots showing Confusion Matrices and training loss curves.
 
 ## ⚙️ How to Use
 1.  **Clone the repo:**
